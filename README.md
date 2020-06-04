@@ -76,6 +76,7 @@ Rigidbody rgbd = GetComponent<Rigidbody>();
 <div id="vectors">
 <button type="button" class="collapsible">+ Vector Quick Reference</button>   
 <div class="content" style="display: none;" markdown="1">
+  
 * <span style="color: red">X = Left/Right</span> 
 * <span style="color: green">Y = Up/Down</span> 
 * <span style="color: blue">Z = Forward/Back</span> 
@@ -214,15 +215,16 @@ if (Input.GetButton("ButtonName")) { Debug.Log("Button is being held down"); }
 <button type="button" class="collapsible">+ Hotkeys</button>   
 <div class="content" style="display: none;" markdown="1">
 
-|:----------------------|:----------------------|:----------------------|:----------------------|:----------------------|
-| Pan Tool              | Move Tool             | Rotate Tool           | Scale Tool            | Rect Tool             |
-| Q                     | W                     | E                     | R                     | T                     |
-| New empty game object | New child game object | Vertex Snap           | Toggle Window Size    | Duplicate             |
-| Ctrl/Cmd+Shift+N      | Alt-Shift+N           | Hold Ctrl/Cmd+Shift+V | Shift+Space           | Ctrl/Cmd+D            |
-| Play                  | Pause                 | Step                  | Focus on Game Object  |                       |
-| Ctrl/Cmd+P            | Ctrl/Cmd+Shift+P      | Ctrl/Cmd+Alt+P        | Select Object ▸ Shift+F |                     |
-| Undo                  | Redo (PC)             | Redo (Mac)            |                       |                       |
-| Ctrl/Cmd+Z            | Ctrl+Y                | Cmd+Shift+Z           |                       |                       |
+|                           |                           |                         |                        |                       |
+|:--------------------------|:--------------------------|:------------------------|:-----------------------|:----------------------|
+| **Pan Tool**              | **Move Tool**             | **Rotate Tool**         | **Scale Tool**         | **Rect Tool**         |
+| *Q*                       | *W*                       | *E*                     | *R*                    | *T*                   |
+| **New empty game object** | **New child game object** | **Vertex Snap**         | **Toggle Window Size** | **Duplicate**         |
+| *Ctrl/Cmd+Shift+N*        | *Alt-Shift+N*             | *Hold Ctrl/Cmd+Shift+V* | *Shift+Space*          | *Ctrl/Cmd+D*          |
+| **Play**                  | **Pause**                 | **Step**                | **Focus on Game Object**  |                    |
+| *Ctrl/Cmd+P*              | *Ctrl/Cmd+Shift+P*        | *Ctrl/Cmd+Alt+P*        | *Select Object ▸ Shift+F* |                    |
+| **Undo**                  | **Redo (PC)**             | **Redo (Mac)**          |                        |                       |
+| *Ctrl/Cmd+Z*              | *Ctrl+Y*                  | *Cmd+Shift+Z*           |                        |                       |
 
 </div>
 </div>
