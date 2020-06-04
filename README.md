@@ -212,8 +212,7 @@ if (Input.GetButton("ButtonName")) { Debug.Log("Button is being held down"); }
 </div>
 
 <div id="input">
-<button type="button" class="collapsible">+ Hotkeys</button>   
-<div class="content" style="display: none;" markdown="1">
+## Hotkeys
 
 |                           |                           |                         |                        |                       |
 |:--------------------------|:--------------------------|:------------------------|:-----------------------|:----------------------|
@@ -226,7 +225,6 @@ if (Input.GetButton("ButtonName")) { Debug.Log("Button is being held down"); }
 | **Undo**                  | **Redo (PC)**             | **Redo (Mac)**          |                        |                       |
 | *Ctrl/Cmd+Z*              | *Ctrl+Y*                  | *Cmd+Shift+Z*           |                        |                       |
 
-</div>
 </div>
 &nbsp;
 
