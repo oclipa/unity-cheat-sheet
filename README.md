@@ -211,7 +211,6 @@ if (Input.GetButton("ButtonName")) { Debug.Log("Button is being held down"); }
 </div>
 </div>
 
-<div id="input">
 ## Hotkeys
 
 |                           |                           |                         |                        |                       |
@@ -225,7 +224,6 @@ if (Input.GetButton("ButtonName")) { Debug.Log("Button is being held down"); }
 | **Undo**                  | **Redo (PC)**             | **Redo (Mac)**          |                        |                       |
 | *Ctrl/Cmd+Z*              | *Ctrl+Y*                  | *Cmd+Shift+Z*           |                        |                       |
 
-</div>
 &nbsp;
 
 &nbsp;
